@@ -1,0 +1,7 @@
+{
+    "mongoURI": "",
+    "localdb":"mongodb://localhost/facebookDb",
+    "jwtSecret": "secret",
+    "githubClientId": "",
+    "githubSecret": ""
+  }
